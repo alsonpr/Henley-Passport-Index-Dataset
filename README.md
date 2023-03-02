@@ -6,7 +6,7 @@ The Henley Passport Index Dataset is a Python project that utilizes an API provi
 
 ## Description
 
-This project extract the information from API provided by the Henley Passport Index, which is an interactive online tool that provides information about the visa requirements for different countries. This project consumes API and converts it into a structured csv format that can be easily analyzed. The data is then saved as a CSV file that can be used for further analysis or visualizations.
+This project extract the information from API provided by the Henley Passport Index, which is an interactive online tool that provides information about the visa requirements for different countries. It consumes API and converts it into a structured csv format that can be easily analyzed. The data is then saved as a CSV file that can be used for further analysis or visualizations.
 
 ## Dependencies
 The project was developed using Python 3.8 and requires the following libraries:
@@ -16,7 +16,7 @@ The project was developed using Python 3.8 and requires the following libraries:
 - requests
 
 ## Output
-The data will be saved in a CSV file named passport-power-{today_date}.csv in the same directory of project file. Two excel files are saved in the same directory.
+The data will be saved in a CSV file named henley-passport-index-{today_date}.csv and henley-passport-index-count-{today_date}.csv in the same directory of project file. Two excel files are saved in the same directory.
 
 - The first file consists of comprehensive information on visa requirements for different origin-destination pairs
 - The second file consists of visa information for each country, including the number of countries offering visa-free access, and visa-required status.
