@@ -16,7 +16,7 @@ The project was developed using Python 3.8 and requires the following libraries:
 - requests
 
 ## Output
-The data will be saved in a CSV file named henley-passport-index-{today_date}.csv and henley-passport-index-count-{today_date}.csv in the same directory of project file. Two excel files are saved in the same directory.
+The data will be saved in a CSV file named henley-passport-index-{date}.csv and henley-passport-index-count-{today_date}.csv in the same directory of project file. Previous historical data can be found inside folder named history. Two excel files are saved in the same directory.
 
 - The first file consists of comprehensive information on visa requirements for different origin-destination pairs
 - The second file consists of visa information for each country, including the number of countries offering visa-free access, and visa-required status.
