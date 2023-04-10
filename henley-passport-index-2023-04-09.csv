@@ -268,7 +268,7 @@ Albania,Cayman Islands,Visa Required
 Albania,Central African Republic,Visa Required
 Albania,Chad,Visa Required
 Albania,Chile,Visa Free
-Albania,China,Visa Required
+Albania,China,Visa Free
 Albania,Colombia,Visa Free
 Albania,Comoro Islands,Visa Free
 Albania,Congo (Dem. Rep.),Visa Required
@@ -1947,7 +1947,7 @@ Australia,Mexico,Visa Free
 Australia,Micronesia,Visa Free
 Australia,Moldova,Visa Free
 Australia,Monaco,Visa Free
-Australia,Mongolia,Visa Required
+Australia,Mongolia,Visa Free
 Australia,Montenegro,Visa Free
 Australia,Montserrat,Visa Free
 Australia,Morocco,Visa Free
@@ -2174,7 +2174,7 @@ Austria,Mexico,Visa Free
 Austria,Micronesia,Visa Free
 Austria,Moldova,Visa Free
 Austria,Monaco,Visa Free
-Austria,Mongolia,Visa Required
+Austria,Mongolia,Visa Free
 Austria,Montenegro,Visa Free
 Austria,Montserrat,Visa Free
 Austria,Morocco,Visa Free
@@ -3763,7 +3763,7 @@ Belgium,Mexico,Visa Free
 Belgium,Micronesia,Visa Free
 Belgium,Moldova,Visa Free
 Belgium,Monaco,Visa Free
-Belgium,Mongolia,Visa Required
+Belgium,Mongolia,Visa Free
 Belgium,Montenegro,Visa Free
 Belgium,Montserrat,Visa Free
 Belgium,Morocco,Visa Free
@@ -5806,7 +5806,7 @@ Bulgaria,Mexico,Visa Free
 Bulgaria,Micronesia,Visa Free
 Bulgaria,Moldova,Visa Free
 Bulgaria,Monaco,Visa Free
-Bulgaria,Mongolia,Visa Required
+Bulgaria,Mongolia,Visa Free
 Bulgaria,Montenegro,Visa Free
 Bulgaria,Montserrat,Visa Free
 Bulgaria,Morocco,Visa Free
@@ -10346,7 +10346,7 @@ Czech Republic,Mexico,Visa Free
 Czech Republic,Micronesia,Visa Free
 Czech Republic,Moldova,Visa Free
 Czech Republic,Monaco,Visa Free
-Czech Republic,Mongolia,Visa Required
+Czech Republic,Mongolia,Visa Free
 Czech Republic,Montenegro,Visa Free
 Czech Republic,Montserrat,Visa Free
 Czech Republic,Morocco,Visa Free
@@ -12360,7 +12360,7 @@ Eritrea,Jamaica,Visa Required
 Eritrea,Japan,Visa Required
 Eritrea,Jordan,Visa Required
 Eritrea,Kazakhstan,Visa Required
-Eritrea,Kenya,Visa Required
+Eritrea,Kenya,Visa Free
 Eritrea,Kiribati,Visa Required
 Eritrea,Kosovo,Visa Required
 Eritrea,Kuwait,Visa Required
@@ -13524,7 +13524,7 @@ France,Mexico,Visa Free
 France,Micronesia,Visa Free
 France,Moldova,Visa Free
 France,Monaco,Visa Free
-France,Mongolia,Visa Required
+France,Mongolia,Visa Free
 France,Montenegro,Visa Free
 France,Montserrat,Visa Free
 France,Morocco,Visa Free
@@ -16702,7 +16702,7 @@ Hungary,Mexico,Visa Free
 Hungary,Micronesia,Visa Free
 Hungary,Moldova,Visa Free
 Hungary,Monaco,Visa Free
-Hungary,Mongolia,Visa Required
+Hungary,Mongolia,Visa Free
 Hungary,Montenegro,Visa Free
 Hungary,Montserrat,Visa Free
 Hungary,Morocco,Visa Free
@@ -16929,7 +16929,7 @@ Iceland,Mexico,Visa Free
 Iceland,Micronesia,Visa Free
 Iceland,Moldova,Visa Free
 Iceland,Monaco,Visa Free
-Iceland,Mongolia,Visa Required
+Iceland,Mongolia,Visa Free
 Iceland,Montenegro,Visa Free
 Iceland,Montserrat,Visa Free
 Iceland,Morocco,Visa Free
@@ -18518,7 +18518,7 @@ Italy,Mexico,Visa Free
 Italy,Micronesia,Visa Free
 Italy,Moldova,Visa Free
 Italy,Monaco,Visa Free
-Italy,Mongolia,Visa Required
+Italy,Mongolia,Visa Free
 Italy,Montenegro,Visa Free
 Italy,Montserrat,Visa Free
 Italy,Morocco,Visa Free
@@ -19584,7 +19584,7 @@ Kenya,Ecuador,Visa Required
 Kenya,Egypt,Visa Required
 Kenya,El Salvador,Visa Required
 Kenya,Equatorial Guinea,Visa Required
-Kenya,Eritrea,Visa Required
+Kenya,Eritrea,Visa Free
 Kenya,Estonia,Visa Required
 Kenya,Ethiopia,Visa Free
 Kenya,Falkland Islands,Visa Required
@@ -22150,7 +22150,7 @@ Liechtenstein,Mexico,Visa Free
 Liechtenstein,Micronesia,Visa Free
 Liechtenstein,Moldova,Visa Free
 Liechtenstein,Monaco,Visa Free
-Liechtenstein,Mongolia,Visa Required
+Liechtenstein,Mongolia,Visa Free
 Liechtenstein,Montenegro,Visa Free
 Liechtenstein,Montserrat,Visa Free
 Liechtenstein,Morocco,Visa Free
@@ -23649,7 +23649,7 @@ Maldives,Cayman Islands,Visa Free
 Maldives,Central African Republic,Visa Required
 Maldives,Chad,Visa Required
 Maldives,Chile,Visa Required
-Maldives,China,Visa Required
+Maldives,China,Visa Free
 Maldives,Colombia,Visa Required
 Maldives,Comoro Islands,Visa Free
 Maldives,Congo (Dem. Rep.),Visa Required
@@ -25782,7 +25782,7 @@ Monaco,Mexico,Visa Free
 Monaco,Micronesia,Visa Free
 Monaco,Moldova,Visa Free
 Monaco,Monaco,N/A
-Monaco,Mongolia,Visa Required
+Monaco,Mongolia,Visa Free
 Monaco,Montenegro,Visa Free
 Monaco,Montserrat,Visa Free
 Monaco,Morocco,Visa Free
@@ -28052,7 +28052,7 @@ New Zealand,Mexico,Visa Free
 New Zealand,Micronesia,Visa Free
 New Zealand,Moldova,Visa Free
 New Zealand,Monaco,Visa Free
-New Zealand,Mongolia,Visa Required
+New Zealand,Mongolia,Visa Free
 New Zealand,Montenegro,Visa Free
 New Zealand,Montserrat,Visa Free
 New Zealand,Morocco,Visa Free
@@ -29414,7 +29414,7 @@ Norway,Mexico,Visa Free
 Norway,Micronesia,Visa Free
 Norway,Moldova,Visa Free
 Norway,Monaco,Visa Free
-Norway,Mongolia,Visa Required
+Norway,Mongolia,Visa Free
 Norway,Montenegro,Visa Free
 Norway,Montserrat,Visa Free
 Norway,Morocco,Visa Free
@@ -31684,7 +31684,7 @@ Poland,Mexico,Visa Free
 Poland,Micronesia,Visa Free
 Poland,Moldova,Visa Free
 Poland,Monaco,Visa Free
-Poland,Mongolia,Visa Required
+Poland,Mongolia,Visa Free
 Poland,Montenegro,Visa Free
 Poland,Montserrat,Visa Free
 Poland,Morocco,Visa Free
@@ -32106,7 +32106,7 @@ Qatar,Ireland,Visa Required
 Qatar,Israel,Visa Required
 Qatar,Italy,Visa Required
 Qatar,Jamaica,Visa Required
-Qatar,Japan,Visa Required
+Qatar,Japan,Visa Free
 Qatar,Jordan,Visa Free
 Qatar,Kazakhstan,Visa Free
 Qatar,Kenya,Visa Required
@@ -34056,7 +34056,7 @@ Serbia,American Samoa,Visa Required
 Serbia,Andorra,Visa Free
 Serbia,Angola,Visa Required
 Serbia,Anguilla,Visa Required
-Serbia,Antigua and Barbuda,Visa Required
+Serbia,Antigua and Barbuda,Visa Free
 Serbia,Argentina,Visa Free
 Serbia,Armenia,Visa Free
 Serbia,Aruba,Visa Free
@@ -37950,7 +37950,7 @@ Suriname,Cayman Islands,Visa Required
 Suriname,Central African Republic,Visa Required
 Suriname,Chad,Visa Required
 Suriname,Chile,Visa Required
-Suriname,China,Visa Required
+Suriname,China,Visa Free
 Suriname,Colombia,Visa Free
 Suriname,Comoro Islands,Visa Free
 Suriname,Congo (Dem. Rep.),Visa Required
@@ -38267,7 +38267,7 @@ Sweden,Mexico,Visa Free
 Sweden,Micronesia,Visa Free
 Sweden,Moldova,Visa Free
 Sweden,Monaco,Visa Free
-Sweden,Mongolia,Visa Required
+Sweden,Mongolia,Visa Free
 Sweden,Montenegro,Visa Free
 Sweden,Montserrat,Visa Free
 Sweden,Morocco,Visa Free
@@ -38494,7 +38494,7 @@ Switzerland,Mexico,Visa Free
 Switzerland,Micronesia,Visa Free
 Switzerland,Moldova,Visa Free
 Switzerland,Monaco,Visa Free
-Switzerland,Mongolia,Visa Required
+Switzerland,Mongolia,Visa Free
 Switzerland,Montenegro,Visa Free
 Switzerland,Montserrat,Visa Free
 Switzerland,Morocco,Visa Free
@@ -42580,7 +42580,7 @@ United Kingdom,Mexico,Visa Free
 United Kingdom,Micronesia,Visa Free
 United Kingdom,Moldova,Visa Free
 United Kingdom,Monaco,Visa Free
-United Kingdom,Mongolia,Visa Required
+United Kingdom,Mongolia,Visa Free
 United Kingdom,Montenegro,Visa Free
 United Kingdom,Montserrat,Visa Free
 United Kingdom,Morocco,Visa Free
